@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\bin\Debug\ArdienteFuzzyLogic.exe.config
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\bin\Debug\ArdienteFuzzyLogic.exe
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\bin\Debug\ArdienteFuzzyLogic.pdb
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\obj\Debug\ArdienteFuzzyLogic.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\obj\Debug\ArdienteFuzzyLogic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\obj\Debug\ArdienteFuzzyLogic.Form1.resources
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\obj\Debug\ArdienteFuzzyLogic.Properties.Resources.resources
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\obj\Debug\ArdienteFuzzyLogic.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\obj\Debug\ArdienteFuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\obj\Debug\ArdienteFuzzyLogic.exe
+C:\Users\Dell\Desktop\SCHOOL\ArdienteFuzzyLogic\ArdienteFuzzyLogic\obj\Debug\ArdienteFuzzyLogic.pdb
